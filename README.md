@@ -1,3 +1,15 @@
+> ## About this fork
+>
+> This is TurboLLM's fork of llama.cpp, used to carry Android/Vulkan fixes (see
+> `master`'s own commits) and to stage PRs back to `ggml-org/llama.cpp`.
+>
+> **Before opening a PR upstream from here: write the commit message and PR
+> description yourself.** `ggml-org/llama.cpp`'s [AGENTS.md](AGENTS.md) lists
+> AI-written PR descriptions and commit messages under *Prohibited AI Usage —
+> results in immediate PR closure*. AI-generated code is fine there; AI-written
+> prose in the commit/PR is not. [PR #28593](https://github.com/ggml-org/llama.cpp/pull/28593)
+> got flagged for exactly this — don't repeat it.
+
 # llama.cpp
 
 ![llama](https://raw.githubusercontent.com/ggml-org/llama.brand/refs/heads/master/cover/llama-cpp/cover-llama-cpp-dark.svg)

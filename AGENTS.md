@@ -1,3 +1,10 @@
+> [!NOTE]
+> **TurboLLM fork addendum:** this is inherited from upstream `ggml-org/llama.cpp` verbatim — it's
+> their policy, not ours, and shouldn't be edited to say otherwise. The one thing worth restating
+> here since it already bit us once: the "Prohibited AI Usage" section below bans AI-written PR
+> descriptions and commit messages, not just AI-written code. Write those yourself before opening
+> a PR upstream from this fork.
+
 # Instructions for llama.cpp
 
 > [!IMPORTANT]
